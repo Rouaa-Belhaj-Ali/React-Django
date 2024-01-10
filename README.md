@@ -2,7 +2,7 @@
 
 HI THERE !
 
-#Overview
+__Overview__
 
 
 This project demonstrates how to connect the Django backend framework to the React frontend library. It provides a simple data entry application where data is retrieved from the backend and displayed on the frontend using the Axios library.
