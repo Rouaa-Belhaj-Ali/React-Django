@@ -1,6 +1,8 @@
 HI THERE !
 
 Overview
+
+
 This project demonstrates how to connect the Django backend framework to the React frontend library. It provides a simple data entry application where data is retrieved from the backend and displayed on the frontend using the Axios library.
 
 Project Rationale
@@ -41,12 +43,15 @@ Frontend Setup:
 Create a React app: npx create-react-app frontend.
 Navigate to the frontend directory: cd frontend.
 Install Axios for frontend-backend communication: npm install axios.
-Frontend Development:
 
+
+Frontend Development:
 Utilize Axios in App.js to fetch and display data.
 Project Usage
 Start the Django backend server.
 Enter data on the backend to reflect changes in the React frontend.
+
+
 Note:
 This project is open for development and is not considered a finished product. Contributions and enhancements are welcome.
 
